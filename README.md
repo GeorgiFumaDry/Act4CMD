@@ -23,11 +23,14 @@ c:\> prompt alopez:\>
 
 4.- Situado en A2. Copia con una única sentencia y trayectoria absoluta el fichero Texto1.txt en A4 con el nombre Texto2.txt.
 
+![image](https://github.com/user-attachments/assets/cd927225-7b8b-4f31-80bf-053fe04bc575)
 
 
 5.- Situado en el directorio A5. Copia con una única sentencia y trayectoria relativa el fichero Texto2.txt al directorio activo (A5) con el nombre Texto3.txt.
 
+![image](https://github.com/user-attachments/assets/2df3bc79-d474-482e-a130-3d3b663b6398)
 
+![image](https://github.com/user-attachments/assets/00335bcd-e9e5-4035-80c7-c45dfef17848)
 
 6.- Accede al directorio A1. Crea los ficheros Texto4.txt Texto5.txt.
 
@@ -35,11 +38,15 @@ Texto4.txt deberá contener el texto “Este fichero va primero”
 
 Texto5.txt deberá contener el texto “Este fichero va después”.
 
+![image](https://github.com/user-attachments/assets/a0cd5b65-5d6d-48bb-af76-988050d6bd87)
 
+![image](https://github.com/user-attachments/assets/cb465d01-7ef0-4bb2-be0b-fd351a3407e9)
 
 7.- Una vez creados junta el contenido de ambos ficheros (texto4.txt y texto5.txt) en el fichero Sexto.txt
 
+![image](https://github.com/user-attachments/assets/a6f09c42-c22a-4daf-9b11-e861ea147896)
 
+![image](https://github.com/user-attachments/assets/3e182b89-33b1-4cba-bd5a-ade035fe07de)
 
 8.- Redirecciona/Muestra la salida del comando dir del directorio A6 al fichero Party.doc
 
